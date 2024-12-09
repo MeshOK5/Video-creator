@@ -6,7 +6,11 @@ Google Colab with T4 GPU accelerator
 
 # Libraries and technologies
 LLM gemini-pro
+
 stable-diffusion-sdxl with Diffusers library
+
 movie.py
+
 GTTS
+
 and other
