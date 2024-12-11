@@ -14,3 +14,11 @@ movie.py
 GTTS
 
 and other
+
+# How to start(with colab)
+Open your Google disk and connect Colaboratory in it.
+
+Next download Video_creator.ipynb and drop it in your Google disk.
+
+
+Follow the prompts left in the file
